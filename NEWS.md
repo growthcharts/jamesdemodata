@@ -1,3 +1,8 @@
+# jamesdemodata 0.3.0
+
+* Removes superfluous package structure
+* Removes superfluous dependencies
+
 # jamesdemodata 0.2.0
 
 * Adds files to `inst/extdata/bds/test`
