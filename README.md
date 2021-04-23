@@ -24,10 +24,7 @@ to generate a file name of the SMOCC child Laura S use
 
 ``` r
 fn <- system.file("extdata", "bds", "smocc", "Laura_S.json", package = "jamesdemodata")
-fn
 ```
-
-    ## [1] "/Users/buurensv/Library/R/4.0/library/jamesdemodata/extdata/bds/smocc/Laura_S.json"
 
 Read the data into R using the `bdsreader` package:
 
