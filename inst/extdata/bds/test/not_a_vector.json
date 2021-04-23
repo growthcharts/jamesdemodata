@@ -1,0 +1,66 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": {
+    "Elementen": [
+      {
+        "Bdsnummer": 19,
+        "Waarde": "2"
+      },
+      {
+        "Bdsnummer": 20,
+        "Waarde": "20190411"
+      },
+      {
+        "Bdsnummer": 82,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 91,
+        "Waarde": "99"
+      },
+      {
+        "Bdsnummer": 110,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 238,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 240,
+        "Waarde": "NA"
+      }
+    ]
+  },
+  "Referentie": "1c7bddba-18e3-4b60-a10d-73ed4a20c7fa",
+  "Contactmomenten": [
+    {
+      "Tijdstip": "20060524",
+      "Elementen": [
+        {
+          "Bdsnummer": 245,
+          "Waarde": 11690
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20061219",
+      "Elementen": [
+        {
+          "Bdsnummer": 245,
+          "Waarde": 13160
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20080220",
+      "Elementen": [
+        {
+          "Bdsnummer": 245,
+          "Waarde": 15850
+        }
+      ]
+    }
+  ]
+}
+

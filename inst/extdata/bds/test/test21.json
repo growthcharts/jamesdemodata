@@ -1,0 +1,36 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": {
+    "Elementen": [
+      {
+        "Bdsnummer": 19,
+        "Waarde": "2"
+      },
+      {
+        "Bdsnummer": 20,
+        "Waarde": "20181011"
+      },
+      {
+        "Bdsnummer": 82,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 91,
+        "Waarde": "99"
+      },
+      {
+        "Bdsnummer": 110,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 238,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 240,
+        "Waarde": "NA"
+      }
+    ]
+  }
+}
+

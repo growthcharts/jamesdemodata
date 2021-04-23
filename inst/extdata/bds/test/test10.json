@@ -1,0 +1,72 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": {
+    "Elementen": [
+      {
+        "Bdsnummer": 19,
+        "Waarde": "2"
+      },
+      {
+        "Bdsnummer": 20,
+        "Waarde": "20000101"
+      },
+      {
+        "Bdsnummer": 82,
+        "Waarde": 189
+      },
+      {
+        "Bdsnummer": 91,
+        "Waarde": "2"
+      },
+      {
+        "Bdsnummer": 110,
+        "Waarde": 990
+      },
+      {
+        "Bdsnummer": 238,
+        "Waarde": 1670
+      },
+      {
+        "Bdsnummer": 240,
+        "Waarde": 1900
+      }
+    ],
+    "Groepen": [
+      {
+        "Elementen": [
+          {
+            "Bdsnummer": 63,
+            "Waarde": "19950704"
+          },
+          {
+            "Bdsnummer": 71
+          },
+          {
+            "Bdsnummer": 62,
+            "Waarde": "01"
+          }
+        ]
+      },
+      {
+        "Elementen": [
+          {
+            "Bdsnummer": 63,
+            "Waarde": "19901202"
+          },
+          {
+            "Bdsnummer": 71
+          },
+          {
+            "Bdsnummer": 62,
+            "Waarde": "02"
+          }
+        ]
+      }
+    ]
+  },
+  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
+  "Contactmomenten": [
+
+  ]
+}
+
