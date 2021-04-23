@@ -1,4 +1,9 @@
-# jamesdemodata 0.0.1
+# jamesdemodata 0.2.0
+
+* Adds files to `inst/extdata/bds/test`
+* Adds conversion script `data-raw/R/make_test_json.R`
+
+# jamesdemodata 0.1.0
 
 * Rename to `jamesdemodata`
 * Adds a `NEWS.md` file to track changes to the package
