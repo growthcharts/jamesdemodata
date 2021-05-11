@@ -3,6 +3,11 @@
 
 # jamesdemodata
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/growthcharts/jamesdemodata/workflows/R-CMD-check/badge.svg)](https://github.com/growthcharts/jamesdemodata/actions)
+<!-- badges: end -->
+
 The `jamesdemodata` is a lightweight repo with demo and test children.
 The goal of the package is to test the **Joint Automatic Measurement and
 Evaluation System (JAMES)**. JAMES is an **experimental** online
