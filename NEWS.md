@@ -1,3 +1,7 @@
+# jamesdemodata 0.4.1
+
+* Repairs errors in `DESCRIPTION`
+
 # jamesdemodata 0.4.0
 
 * Adds GitHub action `R-CMD-CHECK`
