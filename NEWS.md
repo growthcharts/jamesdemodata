@@ -1,3 +1,7 @@
+# jamesdemodata 0.4.0
+
+* Adds GitHub action `R-CMD-CHECK`
+
 # jamesdemodata 0.3.0
 
 * Removes superfluous package structure
