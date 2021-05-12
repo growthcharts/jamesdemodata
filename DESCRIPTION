@@ -18,7 +18,7 @@ Suggests:
     testthat
 URL: https://github.com/growthcharts/jamesdemodata
 Remotes: 
-  growthcharts/bdsreader,
-  stefvanbuuren/donorloader
+    growthcharts/bdsreader,
+    stefvanbuuren/donorloader
 RoxygenNote: 7.1.1
 Roxygen: list(markdown = TRUE)
