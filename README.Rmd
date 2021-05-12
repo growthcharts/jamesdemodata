@@ -40,7 +40,7 @@ fn <- system.file("extdata", "bds", "smocc", "Laura_S.json", package = "jamesdem
 
 Read the data into R using the `bdsreader` package:
 
-```{r}
+```{r eval=FALSE}
 library(bdsreader)
 tgt <- bdsreader::read_bds(fn)
 head(tgt)
