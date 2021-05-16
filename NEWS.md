@@ -1,5 +1,7 @@
-# jamesdemodata 0.4.1
+# jamesdemodata 0.5.0
 
+* Adds GHA `R-CMD-check` for Ubuntu 20.4 devel
+* Rename remotes to `growthcharts`
 * Repairs errors in `DESCRIPTION`
 
 # jamesdemodata 0.4.0
