@@ -1,0 +1,38 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": [
+    {
+      "ElementNummer": 19,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20000101"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": 189
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": 990
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": 1670
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": 1900
+    }
+  ],
+  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
+  "Contactmomenten": [
+
+  ]
+}
+
