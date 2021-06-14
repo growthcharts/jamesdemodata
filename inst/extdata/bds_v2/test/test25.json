@@ -31,29 +31,29 @@
     }
   ],
   "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
-  "Contactmomenten": [
+  "ContactMomenten": [
     {
       "Tijdstip": "20200213",
       "Elementen": [
         {
           "ElementNummer": 879,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 927,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 962,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -62,23 +62,23 @@
       "Elementen": [
         {
           "ElementNummer": 881,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 928,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 964,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -87,19 +87,19 @@
       "Elementen": [
         {
           "ElementNummer": 881,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 884,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 886,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 930,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -108,35 +108,35 @@
       "Elementen": [
         {
           "ElementNummer": 887,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 888,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 931,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 962,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 968,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 970,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -145,19 +145,19 @@
       "Elementen": [
         {
           "ElementNummer": 892,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 932,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 980,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 1278,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -166,27 +166,27 @@
       "Elementen": [
         {
           "ElementNummer": 933,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 934,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 935,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 984,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -195,31 +195,31 @@
       "Elementen": [
         {
           "ElementNummer": 897,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 900,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 905,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 909,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 936,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 938,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 986,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     }

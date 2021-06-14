@@ -61,7 +61,7 @@
     }
   ],
   "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
-  "Contactmomenten": [
+  "ContactMomenten": [
     {
       "Tijdstip": "20181011",
       "Elementen": [
@@ -88,27 +88,27 @@
         },
         {
           "ElementNummer": 884,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 885,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 886,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 930,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 959,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -129,23 +129,23 @@
         },
         {
           "ElementNummer": 884,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 885,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 890,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "ElementNummer": 959,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     }
