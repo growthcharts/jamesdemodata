@@ -28,6 +28,36 @@
     {
       "ElementNummer": 240,
       "Waarde": 1900
+    },
+    {
+      "GenesteElementen": [
+          {
+            "ElementNummer": 63,
+            "Waarde": "19950704"
+          },
+          {
+            "ElementNummer": 71
+          },
+          {
+            "ElementNummer": 62,
+            "Waarde": "01"
+          }
+        ]
+    },
+    {
+      "GenesteElementen": [
+          {
+            "ElementNummer": 63,
+            "Waarde": "19901202"
+          },
+          {
+            "ElementNummer": 71
+          },
+          {
+            "ElementNummer": 62,
+            "Waarde": "02"
+          }
+        ]
     }
     ],
   "Contactmomenten": [
