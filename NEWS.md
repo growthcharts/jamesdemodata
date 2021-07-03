@@ -1,3 +1,10 @@
+# jamesdemodata 0.5.0.9999
+
+* Renames `bds_schema_str` --> `bds_v1.0`
+* Renames `bds_schema` --> `bds_v1.1`
+* Renames `bds_schema_V2` --> `bds_v2.0`
+
+
 # jamesdemodata 0.5.0
 
 * Adds GHA `R-CMD-check` for Ubuntu 20.4 devel
