@@ -39,8 +39,9 @@ export_demodata <- function(path, schema) {
                 schema = schema)
 }
 
-schemas <- c("bds_schema_v1.0",      "bds_schema_v2.0.json",  "bds_schema")
-paths <-  c("inst/extdata/bds_v1.0", "inst/extdata/bds_v2.0", "inst/extdata/bds")
+schemas <- c("schemas/bds_v1.0.json", "schemas/bds_v1.1.json", "schemas/bds_v2.0.json")
+schemas <- system.file(schemas, package = "bdsreader")
+paths <-  file.path("inst/extdata", c("bds_v1.0", "bds_v1.1", "bds_v2.0"))
 
 for (i in 1:length(schemas)) {
   export_demodata(path = paths[i], schema = schemas[i])
