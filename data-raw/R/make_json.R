@@ -1,5 +1,5 @@
 # export demo children from donorloader in specified format
-library(donorloader) # >= 0.25.0
+library(donorloader) # >= 0.30.0
 
 export_demodata <- function(path, schema) {
   # write and validate according to bds_schema.json
