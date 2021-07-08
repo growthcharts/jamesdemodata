@@ -28,7 +28,7 @@ Test- en demo data are stored in the `inst/extdata` directory. In order
 to generate a file name of the SMOCC child Laura S use
 
 ``` r
-fn <- system.file("extdata", "bds", "smocc", "Laura_S.json", package = "jamesdemodata")
+fn <- system.file("extdata", "bds_v2.0", "smocc", "Laura_S.json", package = "jamesdemodata")
 ```
 
 Read the data into R using the `bdsreader` package:

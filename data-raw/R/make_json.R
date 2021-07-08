@@ -1,5 +1,7 @@
 # export demo children from donorloader in specified format
-library(donorloader) # >= 0.30.0
+
+# outcomments to evade dependency on donorloader
+# library(donorloader) # >= 0.30.0
 
 export_demodata <- function(path, schema) {
   # write and validate according to bds_schema.json
@@ -39,10 +41,12 @@ export_demodata <- function(path, schema) {
                 schema = schema)
 }
 
-schemas <- c("schemas/bds_v1.0.json", "schemas/bds_v1.1.json", "schemas/bds_v2.0.json")
-schemas <- system.file(schemas, package = "bdsreader")
-paths <-  file.path("inst/extdata", c("bds_v1.0", "bds_v1.1", "bds_v2.0"))
+# outcommented to evade circular dependency with bdsreader package
 
-for (i in 1:length(schemas)) {
-  export_demodata(path = paths[i], schema = schemas[i])
-}
+# schemas <- c("schemas/bds_v1.0.json", "schemas/bds_v1.1.json", "schemas/bds_v2.0.json")
+# schemas <- system.file(schemas, package = "bdsreader")
+# paths <-  file.path("inst/extdata", c("bds_v1.0", "bds_v1.1", "bds_v2.0"))
+#
+# for (i in 1:length(schemas)) {
+#   export_demodata(path = paths[i], schema = schemas[i])
+# }
