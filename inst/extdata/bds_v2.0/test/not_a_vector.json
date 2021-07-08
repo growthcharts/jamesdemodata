@@ -1,0 +1,64 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": [
+    {
+      "ElementNummer": 19,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20190411"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "99"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": "NA"
+    }
+  ],
+  "Referentie": "1c7bddba-18e3-4b60-a10d-73ed4a20c7fa",
+  "ContactMomenten": [
+    {
+      "Tijdstip": "20060524",
+      "Elementen": [
+        {
+          "ElementNummer": 245,
+          "Waarde": 11690
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20061219",
+      "Elementen": [
+        {
+          "ElementNummer": 245,
+          "Waarde": 13160
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20080220",
+      "Elementen": [
+        {
+          "ElementNummer": 245,
+          "Waarde": 15850
+        }
+      ]
+    }
+  ]
+}
+

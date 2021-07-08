@@ -14,7 +14,7 @@ Depends:
     R (>= 2.10)
 Suggests:
     bdsreader,
-    donorloader,
+    donorloader (>= 0.30.0),
     testthat
 URL: https://github.com/growthcharts/jamesdemodata
 Remotes: 

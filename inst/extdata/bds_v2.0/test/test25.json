@@ -1,0 +1,228 @@
+{
+  "OrganisatieCode": 0,
+  "ClientGegevens": [
+    {
+      "ElementNummer": 19,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20200111"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": 279
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "99"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": "NA"
+    }
+  ],
+  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
+  "ContactMomenten": [
+    {
+      "Tijdstip": "20200213",
+      "Elementen": [
+        {
+          "ElementNummer": 879,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 927,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 955,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 958,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 962,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20200310",
+      "Elementen": [
+        {
+          "ElementNummer": 881,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 928,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 955,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 958,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 964,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20200415",
+      "Elementen": [
+        {
+          "ElementNummer": 881,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 884,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 886,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 930,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20200611",
+      "Elementen": [
+        {
+          "ElementNummer": 887,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 888,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 931,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 955,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 958,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 962,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 968,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 970,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20200909",
+      "Elementen": [
+        {
+          "ElementNummer": 892,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 932,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 980,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 1278,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20201216",
+      "Elementen": [
+        {
+          "ElementNummer": 933,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 934,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 935,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 955,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 958,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 984,
+          "Waarde": "1"
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20210310",
+      "Elementen": [
+        {
+          "ElementNummer": 897,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 900,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 905,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 909,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 936,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 938,
+          "Waarde": "1"
+        },
+        {
+          "ElementNummer": 986,
+          "Waarde": "1"
+        }
+      ]
+    }
+  ]
+}
+
