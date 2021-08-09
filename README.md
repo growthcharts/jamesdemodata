@@ -35,7 +35,7 @@ Read the data into R using the `bdsreader` package:
 
 ``` r
 library(bdsreader)
-tgt <- bdsreader::read_bds(fn)
+tgt <- read_bds(fn)
 head(tgt)
 persondata(tgt)
 ```
