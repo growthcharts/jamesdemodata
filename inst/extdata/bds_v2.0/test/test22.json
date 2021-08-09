@@ -1,6 +1,8 @@
 {
+  "Format": "2.0",
   "OrganisatieCode": 0,
-  "ClientGegevens":[
+  "Referentie": "Unknown",
+  "ClientGegevens": [
     {
       "ElementNummer": 19,
       "Waarde": "2"
@@ -31,33 +33,33 @@
     },
     {
       "GenesteElementen": [
-          {
-            "ElementNummer": 63,
-            "Waarde": "19950704"
-          },
-          {
-            "ElementNummer": 71
-          },
-          {
-            "ElementNummer": 62,
-            "Waarde": "01"
-          }
-        ]
+        {
+          "ElementNummer": 63,
+          "Waarde": "19950704"
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
     },
     {
       "GenesteElementen": [
-          {
-            "ElementNummer": 63,
-            "Waarde": "19901002"
-          },
-          {
-            "ElementNummer": 71
-          },
-          {
-            "ElementNummer": 62,
-            "Waarde": "02"
-          }
-        ]
+        {
+          "ElementNummer": 63,
+          "Waarde": "19901002"
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
     }
   ],
   "ContactMomenten": [

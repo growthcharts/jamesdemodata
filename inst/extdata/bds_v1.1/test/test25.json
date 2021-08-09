@@ -1,5 +1,7 @@
 {
+  "Format": "1.1",
   "OrganisatieCode": 0,
+  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
   "ClientGegevens": {
     "Elementen": [
       {
@@ -32,30 +34,29 @@
       }
     ]
   },
-  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
   "Contactmomenten": [
     {
       "Tijdstip": "20200213",
       "Elementen": [
         {
           "Bdsnummer": 879,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 927,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 962,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -64,23 +65,23 @@
       "Elementen": [
         {
           "Bdsnummer": 881,
-          "Waarde": 1
+          "Waarde": "2"
         },
         {
           "Bdsnummer": 928,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 964,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -89,19 +90,19 @@
       "Elementen": [
         {
           "Bdsnummer": 881,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 884,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 886,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 930,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -110,35 +111,35 @@
       "Elementen": [
         {
           "Bdsnummer": 887,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 888,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 931,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 962,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 968,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 970,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     },
@@ -147,19 +148,19 @@
       "Elementen": [
         {
           "Bdsnummer": 892,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 932,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 980,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 1278,
-          "Waarde": 1
+          "Waarde": "3"
         }
       ]
     },
@@ -168,27 +169,27 @@
       "Elementen": [
         {
           "Bdsnummer": 933,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 934,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 935,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 955,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 958,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 984,
-          "Waarde": 1
+          "Waarde": "3"
         }
       ]
     },
@@ -197,31 +198,31 @@
       "Elementen": [
         {
           "Bdsnummer": 897,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 900,
-          "Waarde": 1
+          "Waarde": "1"
         },
         {
           "Bdsnummer": 905,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 909,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 936,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 938,
-          "Waarde": 1
+          "Waarde": "3"
         },
         {
           "Bdsnummer": 986,
-          "Waarde": 1
+          "Waarde": "1"
         }
       ]
     }

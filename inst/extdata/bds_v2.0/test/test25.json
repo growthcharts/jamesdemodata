@@ -1,5 +1,7 @@
 {
+  "Format": "2.0",
   "OrganisatieCode": 0,
+  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
   "ClientGegevens": [
     {
       "ElementNummer": 19,
@@ -28,9 +30,38 @@
     {
       "ElementNummer": 240,
       "Waarde": "NA"
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
     }
   ],
-  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
   "ContactMomenten": [
     {
       "Tijdstip": "20200213",
@@ -41,7 +72,7 @@
         },
         {
           "ElementNummer": 927,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 955,
@@ -62,11 +93,11 @@
       "Elementen": [
         {
           "ElementNummer": 881,
-          "Waarde": "1"
+          "Waarde": "2"
         },
         {
           "ElementNummer": 928,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 955,
@@ -145,19 +176,19 @@
       "Elementen": [
         {
           "ElementNummer": 892,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 932,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 980,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 1278,
-          "Waarde": "1"
+          "Waarde": "3"
         }
       ]
     },
@@ -166,15 +197,15 @@
       "Elementen": [
         {
           "ElementNummer": 933,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 934,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 935,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 955,
@@ -186,7 +217,7 @@
         },
         {
           "ElementNummer": 984,
-          "Waarde": "1"
+          "Waarde": "3"
         }
       ]
     },
@@ -203,19 +234,19 @@
         },
         {
           "ElementNummer": 905,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 909,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 936,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 938,
-          "Waarde": "1"
+          "Waarde": "3"
         },
         {
           "ElementNummer": 986,

@@ -1,5 +1,7 @@
 {
+  "Format": "2.0",
   "OrganisatieCode": 0,
+  "Referentie": "1c7bddba-18e3-4b60-a10d-73ed4a20c7fa",
   "ClientGegevens": [
     {
       "ElementNummer": 19,
@@ -28,9 +30,38 @@
     {
       "ElementNummer": 240,
       "Waarde": "NA"
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
     }
   ],
-  "Referentie": "1c7bddba-18e3-4b60-a10d-73ed4a20c7fa",
   "ContactMomenten": [
     {
       "Tijdstip": "20060524",

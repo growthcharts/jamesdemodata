@@ -1,34 +1,66 @@
 {
+  "Format": "2.0",
   "OrganisatieCode": 0,
+  "Referentie": "Unknown",
   "ClientGegevens": [
-      {
-        "Bdsnummer": 19,
-        "Waarde": "2"
-      },
-      {
-        "Bdsnummer": 20,
-        "Waarde": "20181011"
-      },
-      {
-        "Bdsnummer": 82,
-        "Waarde": "NA"
-      },
-      {
-        "Bdsnummer": 91,
-        "Waarde": "99"
-      },
-      {
-        "Bdsnummer": 110,
-        "Waarde": "NA"
-      },
-      {
-        "Bdsnummer": 238,
-        "Waarde": "NA"
-      },
-      {
-        "Bdsnummer": 240,
-        "Waarde": "NA"
-      }
-    ]
+    {
+      "ElementNummer": 19,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20181011"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "99"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": "NA"
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": "NA"
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
+    }
+  ]
 }
 

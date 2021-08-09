@@ -1,5 +1,7 @@
 {
+  "Format": "2.0",
   "OrganisatieCode": 0,
+  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
   "ClientGegevens": [
     {
       "ElementNummer": 19,
@@ -28,8 +30,37 @@
     {
       "ElementNummer": 240,
       "Waarde": "NA"
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
     }
-  ],
-  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f"
+  ]
 }
 

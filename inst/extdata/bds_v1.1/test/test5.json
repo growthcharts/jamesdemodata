@@ -1,5 +1,7 @@
 {
+  "Format": "1.1",
   "OrganisatieCode": 0,
+  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
   "ClientGegevens": {
     "Elementen": [
       {
@@ -31,7 +33,6 @@
         "Waarde": "NA"
       }
     ]
-  },
-  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f"
+  }
 }
 
