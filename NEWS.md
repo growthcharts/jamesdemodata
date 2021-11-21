@@ -1,3 +1,7 @@
+# jamesdemodata 0.7.1
+
+- Changes `test4.json` JSON test files
+
 # jamesdemodata 0.7.0
 
 * Adds `Format` field to data in `bds_v1.0`, `bds_v1.1` and `bds_v2.0`
