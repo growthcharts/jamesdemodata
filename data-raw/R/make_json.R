@@ -43,9 +43,9 @@ export_demodata <- function(path, schema) {
 
 # outcommented to evade circular dependency with bdsreader package
 
-#schemas <- c("schemas/bds_v1.0.json", "schemas/bds_v1.1.json", "schemas/bds_v2.0.json")
+#schemas <- c("schemas/bds_v1.0.json", "schemas/bds_v1.1.json", "schemas/bds_v2.0.json", "schemas/bds_v3.0.json")
 #schemas <- system.file(schemas, package = "bdsreader")
-#paths <-  file.path("inst/extdata", c("bds_v1.0", "bds_v1.1", "bds_v2.0"))
+#paths <-  file.path("inst/extdata", c("bds_v1.0", "bds_v1.1", "bds_v2.0", "bds_v3.0"))
 
 #for (i in 1:length(schemas)) {
 #   export_demodata(path = paths[i], schema = schemas[i])
