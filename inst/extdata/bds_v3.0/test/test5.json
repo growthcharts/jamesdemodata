@@ -1,0 +1,23 @@
+{
+  "Format": "3.0",
+  "OrganisatieCode": 0,
+  "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "0"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20000101"
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+

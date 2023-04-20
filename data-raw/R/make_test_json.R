@@ -6,9 +6,11 @@
 #
 # path <- file.path("inst", "extdata", "bds_v1.1", "test")
 # path <- file.path("inst", "extdata", "bds_v2.0", "test")
+# path <- file.path("inst", "extdata", "bds_v3.0", "test")
 #
 # outformat <- "1.1"
 # outformat <- "2.0"
+# outformat <- "3.0"
 #
 # idx <- c(1:7, 9:13, 15:25)
 # for (i in idx) {

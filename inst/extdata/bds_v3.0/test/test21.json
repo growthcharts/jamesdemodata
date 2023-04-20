@@ -1,0 +1,23 @@
+{
+  "Format": "3.0",
+  "OrganisatieCode": 0,
+  "Referentie": "Unknown",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20181011"
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+
