@@ -5,7 +5,7 @@ Author: Stef van Buuren
 Maintainer: Stef van Buuren <stef.vanbuuren@tno.nl>
 Description: A collection of data sets to develop, test and demonstrate the 
     Joint Automatic Measurement and Evaluation System (JAMES). 
-Version: 0.7.1
+Version: 0.8.0
 Encoding: UTF-8
 License: AGPL (>= 3)
 Copyright: Stef van Buuren 2021
@@ -15,4 +15,4 @@ Suggests:
     testthat
 URL: https://github.com/growthcharts/jamesdemodata
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.3

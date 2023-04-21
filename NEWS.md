@@ -1,3 +1,10 @@
+# jamesdemodata 0.8.0
+
+## Major update
+
+- Adds JSON example files coded according to BDS JSON schema V3.0 as
+defined in the [bdsreader](https://growthcharts.org/bdsreader/) package.
+
 # jamesdemodata 0.7.1
 
 - Changes `test4.json` JSON test files
