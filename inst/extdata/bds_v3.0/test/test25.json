@@ -1,0 +1,340 @@
+{
+  "Format": "3.0",
+  "OrganisatieCode": 0,
+  "Referentie": "12802b47-285b-4041-961c-8dd1a4cd3bfb",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20200111"
+    },
+    {
+      "bdsNumber": 82,
+      "value": 279
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    }
+  ],
+  "clientMeasurements": [
+    {
+      "bdsNumber": 879,
+      "values": [
+        {
+          "date": "20200213",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 881,
+      "values": [
+        {
+          "date": "20200310",
+          "value": "2"
+        },
+        {
+          "date": "20200415",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 884,
+      "values": [
+        {
+          "date": "20200415",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 886,
+      "values": [
+        {
+          "date": "20200415",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 887,
+      "values": [
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 888,
+      "values": [
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 892,
+      "values": [
+        {
+          "date": "20200909",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 897,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 900,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 905,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 909,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 927,
+      "values": [
+        {
+          "date": "20200213",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 928,
+      "values": [
+        {
+          "date": "20200310",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 930,
+      "values": [
+        {
+          "date": "20200415",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 931,
+      "values": [
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 932,
+      "values": [
+        {
+          "date": "20200909",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 933,
+      "values": [
+        {
+          "date": "20201216",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 934,
+      "values": [
+        {
+          "date": "20201216",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 935,
+      "values": [
+        {
+          "date": "20201216",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 936,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 938,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 955,
+      "values": [
+        {
+          "date": "20200213",
+          "value": "1"
+        },
+        {
+          "date": "20200310",
+          "value": "1"
+        },
+        {
+          "date": "20200611",
+          "value": "1"
+        },
+        {
+          "date": "20201216",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 958,
+      "values": [
+        {
+          "date": "20200213",
+          "value": "1"
+        },
+        {
+          "date": "20200310",
+          "value": "1"
+        },
+        {
+          "date": "20200611",
+          "value": "1"
+        },
+        {
+          "date": "20201216",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 962,
+      "values": [
+        {
+          "date": "20200213",
+          "value": "1"
+        },
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 964,
+      "values": [
+        {
+          "date": "20200310",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 968,
+      "values": [
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 970,
+      "values": [
+        {
+          "date": "20200611",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 980,
+      "values": [
+        {
+          "date": "20200909",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 984,
+      "values": [
+        {
+          "date": "20201216",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 986,
+      "values": [
+        {
+          "date": "20210310",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "bdsNumber": 1278,
+      "values": [
+        {
+          "date": "20200909",
+          "value": "3"
+        }
+      ]
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+

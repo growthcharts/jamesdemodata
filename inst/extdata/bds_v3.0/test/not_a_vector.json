@@ -1,0 +1,42 @@
+{
+  "Format": "3.0",
+  "OrganisatieCode": 0,
+  "Referentie": "1c7bddba-18e3-4b60-a10d-73ed4a20c7fa",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20190411"
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    }
+  ],
+  "clientMeasurements": [
+    {
+      "bdsNumber": 245,
+      "values": [
+        {
+          "date": "20060524",
+          "value": 11690
+        },
+        {
+          "date": "20061219",
+          "value": 13160
+        },
+        {
+          "date": "20080220",
+          "value": 15850
+        }
+      ]
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+
