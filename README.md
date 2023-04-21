@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/growthcharts/jamesdemodata/workflows/R-CMD-check/badge.svg)](https://github.com/growthcharts/jamesdemodata/actions)
+[![R-CMD-check](https://github.com/growthcharts/jamesdemodata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/growthcharts/jamesdemodata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The `jamesdemodata` is a lightweight repo with demo and test children.
