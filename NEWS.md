@@ -1,3 +1,8 @@
+# jamesdemodata 0.9.0
+
+- Manually: Make fields "organisationCode" and "Reference" conform to the V3.0 schema
+- TODO: This needs to be addressed in example creation
+
 # jamesdemodata 0.8.0
 
 ## Major update
