@@ -1,7 +1,7 @@
 {
   "Format": "3.0",
-  "OrganisatieCode": 0,
-  "Referentie": "51ac0f36-ef58-45ec-be40-9c9a8f72090a",
+  "organisationCode": 0,
+  "Reference": "51ac0f36-ef58-45ec-be40-9c9a8f72090a",
   "clientDetails": [
     {
       "bdsNumber": 19,

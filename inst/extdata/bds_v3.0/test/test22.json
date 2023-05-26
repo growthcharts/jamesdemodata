@@ -1,7 +1,7 @@
 {
   "Format": "3.0",
-  "OrganisatieCode": 0,
-  "Referentie": "Unknown",
+  "organisationCode": 0,
+  "Reference": "Unknown",
   "clientDetails": [
     {
       "bdsNumber": 19,
