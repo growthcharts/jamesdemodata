@@ -35,17 +35,17 @@ remotes::install_github("growthcharts/jamesdemodata")
 
 Test- en demo data are stored in the `inst/extdata` directory. In order to generate a file name of the SMOCC child Laura S use 
 
-```{r eval=FALSE}
-fn <- system.file("extdata", "bds_v2.0", "smocc", "Laura_S.json", package = "jamesdemodata")
+```{r}
+fn <- system.file("extdata", "bds_v3.0", "smocc", "Laura_S.json", package = "jamesdemodata")
 ```
 
 Read the data into R using the `bdsreader` package:
 
-```{r eval=FALSE}
+```{r}
 library(bdsreader)
 tgt <- read_bds(fn)
-head(tgt)
 persondata(tgt)
+timedata(tgt)
 ```
 
 See <https://github.com/growthcharts/bdsreader> for installation notes of `bdsreader`.

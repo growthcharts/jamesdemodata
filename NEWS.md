@@ -1,3 +1,8 @@
+# jamesdemodata 0.10.0
+
+- Regenerates example and test files from `bdsreader` and `donorloader`
+- Corrects problem with gestational ages in lollypop data
+
 # jamesdemodata 0.9.0
 
 - Manually: Make fields "organisationCode" and "Reference" conform to the V3.0 schema
