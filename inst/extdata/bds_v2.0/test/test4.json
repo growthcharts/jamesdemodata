@@ -1,6 +1,6 @@
 {
   "Format": "2.0",
-  "OrganisatieCode": "xyz",
+  "OrganisatieCode": 0,
   "Referentie": "fa308134-069e-49ce-9847-ccdae380ed6f",
   "ClientGegevens": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "ElementNummer": 91,
-      "Waarde": "2"
+      "Waarde": "1"
     },
     {
       "ElementNummer": 110,
