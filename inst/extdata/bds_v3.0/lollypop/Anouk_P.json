@@ -1,1 +1,200 @@
-{"Format":"3.0","organisationCode":0,"Reference":"Anouk P","clientDetails":[{"bdsNumber":19,"value":"2"},{"bdsNumber":20,"value":"20000101"},{"bdsNumber":91,"value":"99"},{"bdsNumber":110,"value":1750}],"clientMeasurements":[{"bdsNumber":235,"values":[{"date":"20000101","value":430},{"date":"20000212","value":480},{"date":"20000311","value":530},{"date":"20000422","value":600},{"date":"20000603","value":640},{"date":"20000701","value":643},{"date":"20000729","value":670},{"date":"20000930","value":705},{"date":"20001223","value":730},{"date":"20010303","value":775},{"date":"20010707","value":810},{"date":"20020126","value":880},{"date":"20030406","value":975},{"date":"20031115","value":1035}]},{"bdsNumber":245,"values":[{"date":"20000101","value":1750},{"date":"20000102","value":1750},{"date":"20000212","value":2695},{"date":"20000311","value":4065},{"date":"20000422","value":5880},{"date":"20000603","value":6980},{"date":"20000701","value":7543},{"date":"20000729","value":8029},{"date":"20000930","value":8905},{"date":"20001223","value":9600},{"date":"20010303","value":10770},{"date":"20010707","value":11070},{"date":"20020126","value":12000},{"date":"20030406","value":16100},{"date":"20031115","value":17500}]},{"bdsNumber":252,"values":[{"date":"20000101","value":295},{"date":"20000212","value":345},{"date":"20000311","value":374},{"date":"20000422","value":402},{"date":"20000603","value":425},{"date":"20000701","value":430},{"date":"20000729","value":440},{"date":"20000930","value":455},{"date":"20001223","value":470}]}],"nestedDetails":[]}
+{
+  "Format": "3.0",
+  "organisationCode": 0,
+  "reference": "Anouk P",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20000101"
+    },
+    {
+      "bdsNumber": 82,
+      "value": 220
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    },
+    {
+      "bdsNumber": 110,
+      "value": 1750
+    }
+  ],
+  "clientMeasurements": [
+    {
+      "bdsNumber": 235,
+      "values": [
+        {
+          "date": "20000101",
+          "value": 430
+        },
+        {
+          "date": "20000212",
+          "value": 480
+        },
+        {
+          "date": "20000311",
+          "value": 530
+        },
+        {
+          "date": "20000422",
+          "value": 600
+        },
+        {
+          "date": "20000603",
+          "value": 640
+        },
+        {
+          "date": "20000701",
+          "value": 643
+        },
+        {
+          "date": "20000729",
+          "value": 670
+        },
+        {
+          "date": "20000930",
+          "value": 705
+        },
+        {
+          "date": "20001223",
+          "value": 730
+        },
+        {
+          "date": "20010303",
+          "value": 775
+        },
+        {
+          "date": "20010707",
+          "value": 810
+        },
+        {
+          "date": "20020126",
+          "value": 880
+        },
+        {
+          "date": "20030406",
+          "value": 975
+        },
+        {
+          "date": "20031115",
+          "value": 1035
+        }
+      ]
+    },
+    {
+      "bdsNumber": 245,
+      "values": [
+        {
+          "date": "20000101",
+          "value": 1750
+        },
+        {
+          "date": "20000102",
+          "value": 1750
+        },
+        {
+          "date": "20000212",
+          "value": 2695
+        },
+        {
+          "date": "20000311",
+          "value": 4065
+        },
+        {
+          "date": "20000422",
+          "value": 5880
+        },
+        {
+          "date": "20000603",
+          "value": 6980
+        },
+        {
+          "date": "20000701",
+          "value": 7543
+        },
+        {
+          "date": "20000729",
+          "value": 8029
+        },
+        {
+          "date": "20000930",
+          "value": 8905
+        },
+        {
+          "date": "20001223",
+          "value": 9600
+        },
+        {
+          "date": "20010303",
+          "value": 10770
+        },
+        {
+          "date": "20010707",
+          "value": 11070
+        },
+        {
+          "date": "20020126",
+          "value": 12000
+        },
+        {
+          "date": "20030406",
+          "value": 16100
+        },
+        {
+          "date": "20031115",
+          "value": 17500
+        }
+      ]
+    },
+    {
+      "bdsNumber": 252,
+      "values": [
+        {
+          "date": "20000101",
+          "value": 295
+        },
+        {
+          "date": "20000212",
+          "value": 345
+        },
+        {
+          "date": "20000311",
+          "value": 374
+        },
+        {
+          "date": "20000422",
+          "value": 402
+        },
+        {
+          "date": "20000603",
+          "value": 425
+        },
+        {
+          "date": "20000701",
+          "value": 430
+        },
+        {
+          "date": "20000729",
+          "value": 440
+        },
+        {
+          "date": "20000930",
+          "value": 455
+        },
+        {
+          "date": "20001223",
+          "value": 470
+        }
+      ]
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+

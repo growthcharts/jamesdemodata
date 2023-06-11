@@ -1,1 +1,164 @@
-{"Format":"3.0","organisationCode":0,"Reference":"Femke","clientDetails":[{"bdsNumber":19,"value":"2"},{"bdsNumber":20,"value":"20120203"},{"bdsNumber":91,"value":"99"},{"bdsNumber":110,"value":4.28},{"bdsNumber":238,"value":1760},{"bdsNumber":240,"value":1850}],"clientMeasurements":[{"bdsNumber":235,"values":[{"date":"20120210","value":510},{"date":"20120405","value":590},{"date":"20120502","value":620},{"date":"20120606","value":650},{"date":"20120704","value":650},{"date":"20120903","value":685},{"date":"20130102","value":725},{"date":"20130403","value":762},{"date":"20130419","value":765}]},{"bdsNumber":245,"values":[{"date":"20120203","value":4280},{"date":"20120210","value":0},{"date":"20120215","value":4160},{"date":"20120301","value":0},{"date":"20120405","value":5050},{"date":"20120502","value":5730},{"date":"20120606","value":6360},{"date":"20120704","value":6685},{"date":"20120903","value":7345},{"date":"20130102","value":7700},{"date":"20130403","value":8105},{"date":"20130419","value":8600}]},{"bdsNumber":252,"values":[{"date":"20120210","value":350},{"date":"20120405","value":380},{"date":"20120502","value":388},{"date":"20120606","value":401},{"date":"20120704","value":405},{"date":"20120903","value":420},{"date":"20130102","value":430}]}],"nestedDetails":[]}
+{
+  "Format": "3.0",
+  "organisationCode": 0,
+  "reference": "Femke",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20120203"
+    },
+    {
+      "bdsNumber": 91,
+      "value": "99"
+    },
+    {
+      "bdsNumber": 110,
+      "value": 4.28
+    },
+    {
+      "bdsNumber": 238,
+      "value": 1760
+    },
+    {
+      "bdsNumber": 240,
+      "value": 1850
+    }
+  ],
+  "clientMeasurements": [
+    {
+      "bdsNumber": 235,
+      "values": [
+        {
+          "date": "20120210",
+          "value": 510
+        },
+        {
+          "date": "20120405",
+          "value": 590
+        },
+        {
+          "date": "20120502",
+          "value": 620
+        },
+        {
+          "date": "20120606",
+          "value": 650
+        },
+        {
+          "date": "20120704",
+          "value": 650
+        },
+        {
+          "date": "20120903",
+          "value": 685
+        },
+        {
+          "date": "20130102",
+          "value": 725
+        },
+        {
+          "date": "20130403",
+          "value": 762
+        },
+        {
+          "date": "20130419",
+          "value": 765
+        }
+      ]
+    },
+    {
+      "bdsNumber": 245,
+      "values": [
+        {
+          "date": "20120203",
+          "value": 4280
+        },
+        {
+          "date": "20120210",
+          "value": 0
+        },
+        {
+          "date": "20120215",
+          "value": 4160
+        },
+        {
+          "date": "20120301",
+          "value": 0
+        },
+        {
+          "date": "20120405",
+          "value": 5050
+        },
+        {
+          "date": "20120502",
+          "value": 5730
+        },
+        {
+          "date": "20120606",
+          "value": 6360
+        },
+        {
+          "date": "20120704",
+          "value": 6685
+        },
+        {
+          "date": "20120903",
+          "value": 7345
+        },
+        {
+          "date": "20130102",
+          "value": 7700
+        },
+        {
+          "date": "20130403",
+          "value": 8105
+        },
+        {
+          "date": "20130419",
+          "value": 8600
+        }
+      ]
+    },
+    {
+      "bdsNumber": 252,
+      "values": [
+        {
+          "date": "20120210",
+          "value": 350
+        },
+        {
+          "date": "20120405",
+          "value": 380
+        },
+        {
+          "date": "20120502",
+          "value": 388
+        },
+        {
+          "date": "20120606",
+          "value": 401
+        },
+        {
+          "date": "20120704",
+          "value": 405
+        },
+        {
+          "date": "20120903",
+          "value": 420
+        },
+        {
+          "date": "20130102",
+          "value": 430
+        }
+      ]
+    }
+  ],
+  "nestedDetails": [
+
+  ]
+}
+

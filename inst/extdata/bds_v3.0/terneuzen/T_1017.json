@@ -1,1 +1,202 @@
-{"Format":"3.0","organisationCode":0,"Reference":"T 1017","clientDetails":[{"bdsNumber":19,"value":"1"},{"bdsNumber":20,"value":"20000101"},{"bdsNumber":82,"value":280},{"bdsNumber":91,"value":"2"},{"bdsNumber":110,"value":4260},{"bdsNumber":238,"value":1630},{"bdsNumber":240,"value":1670}],"clientMeasurements":[{"bdsNumber":235,"values":[{"date":"20000101","value":510},{"date":"20000202","value":550},{"date":"20000308","value":600},{"date":"20000405","value":620},{"date":"20000503","value":650},{"date":"20000719","value":710},{"date":"20001004","value":740},{"date":"20001115","value":750},{"date":"20001226","value":760},{"date":"20011217","value":850},{"date":"20030929","value":990},{"date":"20040125","value":1000},{"date":"20040516","value":1020},{"date":"20060507","value":1160},{"date":"20070221","value":1220},{"date":"20111218","value":1500}]},{"bdsNumber":245,"values":[{"date":"20000101","value":4260},{"date":"20000202","value":4850},{"date":"20000216","value":5620},{"date":"20000308","value":6210},{"date":"20000405","value":7120},{"date":"20000503","value":7710},{"date":"20000531","value":8430},{"date":"20000719","value":9150},{"date":"20001004","value":10220},{"date":"20001115","value":10410},{"date":"20001226","value":11150},{"date":"20011217","value":13200},{"date":"20030929","value":17000},{"date":"20040125","value":17500},{"date":"20040516","value":17700},{"date":"20060507","value":22000},{"date":"20070221","value":24500},{"date":"20111218","value":44500},{"value":4000}]}],"nestedDetails":[{"nestingBdsNumber":62,"nestingCode":"02","clientDetails":[{"bdsNumber":63,"value":"19680701"}],"clientMeasurements":[]}]}
+{
+  "Format": "3.0",
+  "organisationCode": 0,
+  "reference": "T 1017",
+  "clientDetails": [
+    {
+      "bdsNumber": 19,
+      "value": "1"
+    },
+    {
+      "bdsNumber": 20,
+      "value": "20000101"
+    },
+    {
+      "bdsNumber": 82,
+      "value": 283
+    },
+    {
+      "bdsNumber": 91,
+      "value": "2"
+    },
+    {
+      "bdsNumber": 110,
+      "value": 4260
+    },
+    {
+      "bdsNumber": 238,
+      "value": 1630
+    },
+    {
+      "bdsNumber": 240,
+      "value": 1670
+    }
+  ],
+  "clientMeasurements": [
+    {
+      "bdsNumber": 235,
+      "values": [
+        {
+          "date": "20000101",
+          "value": 510
+        },
+        {
+          "date": "20000202",
+          "value": 550
+        },
+        {
+          "date": "20000308",
+          "value": 600
+        },
+        {
+          "date": "20000405",
+          "value": 620
+        },
+        {
+          "date": "20000503",
+          "value": 650
+        },
+        {
+          "date": "20000719",
+          "value": 710
+        },
+        {
+          "date": "20001004",
+          "value": 740
+        },
+        {
+          "date": "20001115",
+          "value": 750
+        },
+        {
+          "date": "20001226",
+          "value": 760
+        },
+        {
+          "date": "20011217",
+          "value": 850
+        },
+        {
+          "date": "20030929",
+          "value": 990
+        },
+        {
+          "date": "20040125",
+          "value": 1000
+        },
+        {
+          "date": "20040516",
+          "value": 1020
+        },
+        {
+          "date": "20060507",
+          "value": 1160
+        },
+        {
+          "date": "20070221",
+          "value": 1220
+        },
+        {
+          "date": "20111218",
+          "value": 1500
+        }
+      ]
+    },
+    {
+      "bdsNumber": 245,
+      "values": [
+        {
+          "date": "20000101",
+          "value": 4260
+        },
+        {
+          "date": "20000202",
+          "value": 4850
+        },
+        {
+          "date": "20000216",
+          "value": 5620
+        },
+        {
+          "date": "20000308",
+          "value": 6210
+        },
+        {
+          "date": "20000405",
+          "value": 7120
+        },
+        {
+          "date": "20000503",
+          "value": 7710
+        },
+        {
+          "date": "20000531",
+          "value": 8430
+        },
+        {
+          "date": "20000719",
+          "value": 9150
+        },
+        {
+          "date": "20001004",
+          "value": 10220
+        },
+        {
+          "date": "20001115",
+          "value": 10410
+        },
+        {
+          "date": "20001226",
+          "value": 11150
+        },
+        {
+          "date": "20011217",
+          "value": 13200
+        },
+        {
+          "date": "20030929",
+          "value": 17000
+        },
+        {
+          "date": "20040125",
+          "value": 17500
+        },
+        {
+          "date": "20040516",
+          "value": 17700
+        },
+        {
+          "date": "20060507",
+          "value": 22000
+        },
+        {
+          "date": "20070221",
+          "value": 24500
+        },
+        {
+          "date": "20111218",
+          "value": 44500
+        },
+        {
+          "value": 4000
+        }
+      ]
+    }
+  ],
+  "nestedDetails": [
+    {
+      "nestingBdsNumber": 62,
+      "nestingCode": "02",
+      "clientDetails": [
+        {
+          "bdsNumber": 63,
+          "value": "19680701"
+        }
+      ],
+      "clientMeasurements": [
+
+      ]
+    }
+  ]
+}
+

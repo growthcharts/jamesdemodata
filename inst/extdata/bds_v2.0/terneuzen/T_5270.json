@@ -1,1 +1,207 @@
-{"Format":"2.0","OrganisatieCode":0,"Referentie":"T 5270","ClientGegevens":[{"ElementNummer":19,"Waarde":"1"},{"ElementNummer":20,"Waarde":"20000101"},{"ElementNummer":82,"Waarde":294},{"ElementNummer":91,"Waarde":"2"},{"ElementNummer":110,"Waarde":4840},{"ElementNummer":238,"Waarde":1680},{"ElementNummer":240,"Waarde":1780},{"GenesteElementen":[{"ElementNummer":63,"Waarde":null},{"ElementNummer":71},{"ElementNummer":62,"Waarde":"01"}]},{"GenesteElementen":[{"ElementNummer":63,"Waarde":"19720701"},{"ElementNummer":71},{"ElementNummer":62,"Waarde":"02"}]}],"ContactMomenten":[{"Tijdstip":"20000101","Elementen":[{"ElementNummer":235,"Waarde":550},{"ElementNummer":245,"Waarde":4840}]},{"Tijdstip":"20000123","Elementen":[{"ElementNummer":235,"Waarde":580},{"ElementNummer":245,"Waarde":5140}]},{"Tijdstip":"20000222","Elementen":[{"ElementNummer":235,"Waarde":620},{"ElementNummer":245,"Waarde":6070}]},{"Tijdstip":"20000318","Elementen":[{"ElementNummer":235,"Waarde":640},{"ElementNummer":245,"Waarde":6650}]},{"Tijdstip":"20000404","Elementen":[{"ElementNummer":235,"Waarde":650},{"ElementNummer":245,"Waarde":6950}]},{"Tijdstip":"20000510","Elementen":[{"ElementNummer":235,"Waarde":670},{"ElementNummer":245,"Waarde":7220}]},{"Tijdstip":"20000717","Elementen":[{"ElementNummer":245,"Waarde":8880}]},{"Tijdstip":"20051227","Elementen":[{"ElementNummer":235,"Waarde":1260},{"ElementNummer":245,"Waarde":28000}]},{"Tijdstip":"20061018","Elementen":[{"ElementNummer":235,"Waarde":1320},{"ElementNummer":245,"Waarde":30000}]},{"Tijdstip":"20090730","Elementen":[{"ElementNummer":235,"Waarde":1490},{"ElementNummer":245,"Waarde":47000}]},{"Tijdstip":"20120514","Elementen":[{"ElementNummer":235,"Waarde":1640},{"ElementNummer":245,"Waarde":65000}]}]}
+{
+  "Format": "2.0",
+  "OrganisatieCode": 0,
+  "Referentie": "T 5270",
+  "ClientGegevens": [
+    {
+      "ElementNummer": 19,
+      "Waarde": "1"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20000101"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": 297
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": 4840
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": 1680
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": 1780
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": "19720701"
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
+    }
+  ],
+  "ContactMomenten": [
+    {
+      "Tijdstip": "20000101",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 550
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 4840
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000123",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 580
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 5140
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000222",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 620
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 6070
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000318",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 640
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 6650
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000404",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 650
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 6950
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000510",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 670
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 7220
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000717",
+      "Elementen": [
+        {
+          "ElementNummer": 245,
+          "Waarde": 8880
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20051227",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 1260
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 28000
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20061018",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 1320
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 30000
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20090730",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 1490
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 47000
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20120514",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 1640
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 65000
+        }
+      ]
+    }
+  ]
+}
+

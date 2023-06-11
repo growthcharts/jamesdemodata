@@ -1,1 +1,105 @@
-{"Format":"1.1","OrganisatieCode":0,"Referentie":"Tim","ClientGegevens":{"Elementen":[{"Bdsnummer":19,"Waarde":"1"},{"Bdsnummer":20,"Waarde":"19980628"},{"Bdsnummer":82,"Waarde":"NA"},{"Bdsnummer":91,"Waarde":"99"},{"Bdsnummer":110,"Waarde":"NA"},{"Bdsnummer":238,"Waarde":1760},{"Bdsnummer":240,"Waarde":1840}]},"Contactmomenten":[{"Tijdstip":"20050502","Elementen":[{"Bdsnummer":235,"Waarde":1320},{"Bdsnummer":245,"Waarde":27000}]},{"Tijdstip":"20050623","Elementen":[{"Bdsnummer":235,"Waarde":1340},{"Bdsnummer":245,"Waarde":0}]},{"Tijdstip":"20090909","Elementen":[{"Bdsnummer":235,"Waarde":1590},{"Bdsnummer":245,"Waarde":45500}]},{"Tijdstip":"20120903","Elementen":[{"Bdsnummer":235,"Waarde":1763},{"Bdsnummer":245,"Waarde":55700}]},{"Tijdstip":"20121029","Elementen":[{"Bdsnummer":235,"Waarde":1763},{"Bdsnummer":245,"Waarde":55700}]}]}
+{
+  "Format": "1.1",
+  "OrganisatieCode": 0,
+  "Referentie": "Tim",
+  "ClientGegevens": {
+    "Elementen": [
+      {
+        "Bdsnummer": 19,
+        "Waarde": "1"
+      },
+      {
+        "Bdsnummer": 20,
+        "Waarde": "19980628"
+      },
+      {
+        "Bdsnummer": 82,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 91,
+        "Waarde": "99"
+      },
+      {
+        "Bdsnummer": 110,
+        "Waarde": "NA"
+      },
+      {
+        "Bdsnummer": 238,
+        "Waarde": 1760
+      },
+      {
+        "Bdsnummer": 240,
+        "Waarde": 1840
+      }
+    ]
+  },
+  "Contactmomenten": [
+    {
+      "Tijdstip": "20050502",
+      "Elementen": [
+        {
+          "Bdsnummer": 235,
+          "Waarde": 1320
+        },
+        {
+          "Bdsnummer": 245,
+          "Waarde": 27000
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20050623",
+      "Elementen": [
+        {
+          "Bdsnummer": 235,
+          "Waarde": 1340
+        },
+        {
+          "Bdsnummer": 245,
+          "Waarde": 0
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20090909",
+      "Elementen": [
+        {
+          "Bdsnummer": 235,
+          "Waarde": 1590
+        },
+        {
+          "Bdsnummer": 245,
+          "Waarde": 45500
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20120903",
+      "Elementen": [
+        {
+          "Bdsnummer": 235,
+          "Waarde": 1763
+        },
+        {
+          "Bdsnummer": 245,
+          "Waarde": 55700
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20121029",
+      "Elementen": [
+        {
+          "Bdsnummer": 235,
+          "Waarde": 1763
+        },
+        {
+          "Bdsnummer": 245,
+          "Waarde": 55700
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,1 +1,166 @@
-{"Format":"2.0","OrganisatieCode":0,"Referentie":"Randy","ClientGegevens":[{"ElementNummer":19,"Waarde":"1"},{"ElementNummer":20,"Waarde":"20000101"},{"ElementNummer":82,"Waarde":210},{"ElementNummer":91,"Waarde":"2"},{"ElementNummer":110,"Waarde":1530},{"ElementNummer":238,"Waarde":1680},{"ElementNummer":240,"Waarde":1700},{"GenesteElementen":[{"ElementNummer":63,"Waarde":null},{"ElementNummer":71},{"ElementNummer":62,"Waarde":"01"}]},{"GenesteElementen":[{"ElementNummer":63,"Waarde":"19720701"},{"ElementNummer":71},{"ElementNummer":62,"Waarde":"02"}]}],"ContactMomenten":[{"Tijdstip":"20000101","Elementen":[{"ElementNummer":245,"Waarde":1530},{"ElementNummer":252,"Waarde":300}]},{"Tijdstip":"20000617","Elementen":[{"ElementNummer":235,"Waarde":580},{"ElementNummer":245,"Waarde":4400},{"ElementNummer":252,"Waarde":410}]},{"Tijdstip":"20000923","Elementen":[{"ElementNummer":235,"Waarde":670},{"ElementNummer":245,"Waarde":6900},{"ElementNummer":252,"Waarde":440}]},{"Tijdstip":"20010317","Elementen":[{"ElementNummer":235,"Waarde":740},{"ElementNummer":245,"Waarde":9500},{"ElementNummer":252,"Waarde":450}]},{"Tijdstip":"20020302","Elementen":[{"ElementNummer":235,"Waarde":850},{"ElementNummer":245,"Waarde":11800},{"ElementNummer":252,"Waarde":480}]},{"Tijdstip":"20041231","Elementen":[{"ElementNummer":235,"Waarde":1095},{"ElementNummer":245,"Waarde":17200},{"ElementNummer":252,"Waarde":475}]}]}
+{
+  "Format": "2.0",
+  "OrganisatieCode": 0,
+  "Referentie": "Randy",
+  "ClientGegevens": [
+    {
+      "ElementNummer": 19,
+      "Waarde": "1"
+    },
+    {
+      "ElementNummer": 20,
+      "Waarde": "20000101"
+    },
+    {
+      "ElementNummer": 82,
+      "Waarde": 213
+    },
+    {
+      "ElementNummer": 91,
+      "Waarde": "2"
+    },
+    {
+      "ElementNummer": 110,
+      "Waarde": 1530
+    },
+    {
+      "ElementNummer": 238,
+      "Waarde": 1680
+    },
+    {
+      "ElementNummer": 240,
+      "Waarde": 1700
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": null
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "01"
+        }
+      ]
+    },
+    {
+      "GenesteElementen": [
+        {
+          "ElementNummer": 63,
+          "Waarde": "19720701"
+        },
+        {
+          "ElementNummer": 71
+        },
+        {
+          "ElementNummer": 62,
+          "Waarde": "02"
+        }
+      ]
+    }
+  ],
+  "ContactMomenten": [
+    {
+      "Tijdstip": "20000101",
+      "Elementen": [
+        {
+          "ElementNummer": 245,
+          "Waarde": 1530
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 300
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000617",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 580
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 4400
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 410
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20000923",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 670
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 6900
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 440
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20010317",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 740
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 9500
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 450
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20020302",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 850
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 11800
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 480
+        }
+      ]
+    },
+    {
+      "Tijdstip": "20041231",
+      "Elementen": [
+        {
+          "ElementNummer": 235,
+          "Waarde": 1095
+        },
+        {
+          "ElementNummer": 245,
+          "Waarde": 17200
+        },
+        {
+          "ElementNummer": 252,
+          "Waarde": 475
+        }
+      ]
+    }
+  ]
+}
+
