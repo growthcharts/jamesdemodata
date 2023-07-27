@@ -1,3 +1,7 @@
+# jamesdemodata 0.10.1
+
+- Adds missing `test8.json` and `test14.json` files for testing
+
 # jamesdemodata 0.10.0
 
 - Regenerates example and test files from `bdsreader` and `donorloader`

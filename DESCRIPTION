@@ -5,7 +5,7 @@ Author: Stef van Buuren
 Maintainer: Stef van Buuren <stef.vanbuuren@tno.nl>
 Description: A collection of data sets to develop, test and demonstrate the 
     Joint Automatic Measurement and Evaluation System (JAMES). 
-Version: 0.10.0
+Version: 0.10.1
 Encoding: UTF-8
 License: AGPL (>= 3)
 Copyright: Stef van Buuren 2021
