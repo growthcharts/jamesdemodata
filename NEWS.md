@@ -1,3 +1,8 @@
+# jamesdemodata 0.11.0
+
+- Rewrites the JSON schema V3.0 demo and test files according to 
+`bdsreader 0.23.5`. This removes superfluous JSON array definitions.
+
 # jamesdemodata 0.10.1
 
 - Adds missing `test8.json` and `test14.json` files for testing

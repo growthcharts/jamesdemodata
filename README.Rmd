@@ -33,7 +33,7 @@ remotes::install_github("growthcharts/jamesdemodata")
 
 ## Example
 
-Test- en demo data are stored in the `inst/extdata` directory. In order to generate a file name of the SMOCC child Laura S use 
+Test en demo data are stored in the `inst/extdata` directory. In order to generate a file name of the SMOCC child Laura S use 
 
 ```{r}
 fn <- system.file("extdata", "bds_v3.0", "smocc", "Laura_S.json", package = "jamesdemodata")

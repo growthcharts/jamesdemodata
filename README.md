@@ -25,7 +25,7 @@ remotes::install_github("growthcharts/jamesdemodata")
 
 ## Example
 
-Test- en demo data are stored in the `inst/extdata` directory. In order
+Test en demo data are stored in the `inst/extdata` directory. In order
 to generate a file name of the SMOCC child Laura S use
 
 ``` r
@@ -40,12 +40,13 @@ tgt <- read_bds(fn)
 persondata(tgt)
 ```
 
-    ## # A tibble: 1 × 16
-    ##      id name    dob        dobf   dobm       src   dnr   sex      gad    ga
-    ##   <int> <chr>   <date>     <date> <date>     <chr> <chr> <chr>  <dbl> <dbl>
-    ## 1    -1 Laura S 1989-01-21 NA     1961-07-22 0     <NA>  female   276    39
-    ## # ℹ 6 more variables: smo <int>, bw <dbl>, hgtm <dbl>, hgtf <dbl>, agem <dbl>,
-    ## #   etn <chr>
+    ## # A tibble: 1 × 22
+    ##      id name    dob        dobm       dobf   src   dnr   sex      gad    ga
+    ##   <int> <chr>   <date>     <date>     <date> <chr> <chr> <chr>  <dbl> <dbl>
+    ## 1    -1 Laura S 1989-01-21 1961-07-22 NA     0     <NA>  female   276    39
+    ## # ℹ 12 more variables: smo <dbl>, bw <dbl>, hgtm <dbl>, hgtf <dbl>, agem <dbl>,
+    ## #   etn <chr>, pc4 <chr>, blbf <int>, blbm <int>, eduf <int>, edum <int>,
+    ## #   par <int>
 
 ``` r
 timedata(tgt)
@@ -54,16 +55,16 @@ timedata(tgt)
     ## # A tibble: 58 × 8
     ##      age xname yname zname zref                      x     y      z
     ##    <dbl> <chr> <chr> <chr> <chr>                 <dbl> <dbl>  <dbl>
-    ##  1 0     age   hgt   hgt_z nl_1997_hgt_female_nl 0     48    -1.52 
-    ##  2 0     age   wgt   wgt_z nl_1997_wgt_female_nl 0      2.95 -1.06 
-    ##  3 0     age   bmi   bmi_z nl_1997_bmi_female_nl 0     12.8   0.259
-    ##  4 0.101 age   hgt   hgt_z nl_1997_hgt_female_nl 0.101 53.5  -0.499
-    ##  5 0.101 age   wgt   wgt_z nl_1997_wgt_female_nl 0.101  4.18 -0.162
-    ##  6 0.101 age   hdc   hdc_z nl_1997_hdc_female_nl 0.101 37.6   0.418
-    ##  7 0.101 age   bmi   bmi_z nl_1997_bmi_female_nl 0.101 14.6   0.231
-    ##  8 0.101 age   dsc   dsc_z ph_2023_dsc_female_40 0.101 14.8  -0.321
-    ##  9 0.159 age   hgt   hgt_z nl_1997_hgt_female_nl 0.159 56    -0.261
-    ## 10 0.159 age   wgt   wgt_z nl_1997_wgt_female_nl 0.159  5     0.401
+    ##  1 0     age   hgt   hgt_z nl_1997_hgt_female_nl 0      48   -1.52 
+    ##  2 0.101 age   hgt   hgt_z nl_1997_hgt_female_nl 0.101  53.5 -0.499
+    ##  3 0.159 age   hgt   hgt_z nl_1997_hgt_female_nl 0.159  56   -0.261
+    ##  4 0.236 age   hgt   hgt_z nl_1997_hgt_female_nl 0.236  59.5  0.163
+    ##  5 0.485 age   hgt   hgt_z nl_1997_hgt_female_nl 0.485  65.5 -0.259
+    ##  6 0.753 age   hgt   hgt_z nl_1997_hgt_female_nl 0.753  71.5  0.131
+    ##  7 1.02  age   hgt   hgt_z nl_1997_hgt_female_nl 1.02   75   -0.18 
+    ##  8 1.25  age   hgt   hgt_z nl_1997_hgt_female_nl 1.25   80    0.421
+    ##  9 1.54  age   hgt   hgt_z nl_1997_hgt_female_nl 1.54   84    0.527
+    ## 10 2.04  age   hgt   hgt_z nl_1997_hgt_female_nl 2.04   90    0.67 
     ## # ℹ 48 more rows
 
 See <https://github.com/growthcharts/bdsreader> for installation notes
