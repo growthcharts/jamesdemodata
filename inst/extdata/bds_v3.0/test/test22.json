@@ -1,7 +1,7 @@
 {
   "Format": "3.0",
   "organisationCode": 0,
-  "reference": "Unknown",
+  "reference": null,
   "clientDetails": [
     {
       "bdsNumber": 19,
@@ -82,9 +82,6 @@
           "bdsNumber": 63,
           "value": "19950704"
         }
-      ],
-      "clientMeasurements": [
-
       ]
     },
     {
@@ -95,9 +92,6 @@
           "bdsNumber": 63,
           "value": "19901002"
         }
-      ],
-      "clientMeasurements": [
-
       ]
     }
   ]
