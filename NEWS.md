@@ -1,3 +1,9 @@
+# jamesdemodata 0.12.0
+
+- Transfers `bdsreader/inst/examples` to `jamesdemodata/json/examples` to bundle all 
+  example files in one package
+- Updates the README with examples and documentation
+
 # jamesdemodata 0.11.0
 
 - Rewrites the JSON schema V3.0 demo and test files according to 
