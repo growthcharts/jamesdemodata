@@ -4,7 +4,6 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -16,37 +15,120 @@ knitr::opts_chunk$set(echo = TRUE)
 [![R-CMD-check](https://github.com/growthcharts/jamesdemodata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/growthcharts/jamesdemodata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The `jamesdemodata` is a lightweight repo with demo and test children. The goal 
-of the package is to test the 
-**Joint Automatic Measurement and Evaluation System (JAMES)**.
-JAMES is an **experimental** online resource for creating and analysing
-growth charts.
+The `jamesdemodata` package is a lightweight repository containing demonstration data and example child records. Its goal is to provide reproducible examples and test cases for the **Joint Automatic Measurement and Evaluation System (JAMES)** — an online service that supports real-time decision making in the monitoring and prediction of child growth and development.
 
-## Installation
+## 1. Installation
 
-The following statements will install the `jamesdemodata` package
+To install the `jamesdemodata` package from GitHub, use:
 
 ```{r eval = FALSE}
 install.packages("remotes")
 remotes::install_github("growthcharts/jamesdemodata")
 ```
 
-## Example
+## 2. A JSON schema for data exchange
 
-Test en demo data are stored in the `inst/extdata` directory. In order to generate a file name of the SMOCC child Laura S use 
+The example datasets build upon the the [BDS JGZ specification](https://www.ncj.nl/onderwerp/digitaal-dossier-jgz/bds-jgz-versiebeheer/) and [NICTIZ informatiestandaarden JGZ](https://nictiz.nl/releases/jeugdgezondheidszorg-7-1-1/) These specifications provide a detailed description on what information can be collected and how it should stored. The `bdsreader` package implements a subset of BDS JGZ fields related to child growth and development into a JSON schema that can be used for validation and electronic data communication. The current version of this JSON schema is [`bds_v3.0`](https://raw.githubusercontent.com/growthcharts/bdsreader/refs/heads/master/inst/schemas/bds_v3.0.json). 
+
+The examples in the `jamesdemodata` package are coded according to this JSON schema, or a previous version of it.
+
+## 3. Usage `json/examples`
+
+The `json/examples` directory contains a few minimal JSON datasets for testing and development.
+
+### 3.1 Read the first 10 lines of a demo file
+
+Use the `system.file()` function to construct the path to a file within the package:
 
 ```{r}
-fn <- system.file("extdata", "bds_v3.0", "smocc", "Laura_S.json", package = "jamesdemodata")
+fn <- system.file("json", "examples", "maria.json", package = "jamesdemodata")
+cat(paste(readLines(fn, n = 10), collapse = "\n"), "\n...")
 ```
 
-Read the data into R using the `bdsreader` package:
+### 3.2 Read JSON data into R using `bdsreader`
+
+If you have the `bdsreader` package installed, you can read and inspect the JSON data as follows:
 
 ```{r}
 library(bdsreader)
-tgt <- read_bds(fn)
-persondata(tgt)
-timedata(tgt)
+read_bds(fn)
 ```
 
-See <https://github.com/growthcharts/bdsreader> for installation notes of `bdsreader`.
+For installation instructions and further documentation, see the [`bdsreader` GitHub repository](https://github.com/growthcharts/bdsreader).
+
+### 3.3 Files in `json/examples` directory
+
+To explore what is available in `json/examples` use
+
+```{r}
+json_path <- system.file("json", "examples", package = "jamesdemodata")
+list.files(json_path, recursive = TRUE)
+```
+
+The following table lists the files in the `json/examples` directory, along with a brief description of each file.
+
+```{r, results='asis', echo=FALSE}
+descriptions <- c(
+  "client3.json" = "Example child record in minimal JSON format",
+   "Kevin_S.json" = "Preterm child Kevin_S using current JSON schema",
+   "Laura_S.json" = "Example child Laura_S using current JSON schema",
+   "maria.json" = "Example child record in minimal JSON format",
+   "maria-mangled.json" = "Same child with vastly incomplete data, for debugging",
+   "maria1.json" = "Example child record, JSON schema 1.0 (outdated)",
+   "maria2.json" = "Example child record, JSON schema 2.0 (outdated)",
+   "test.json" = "Example child record in minimal JSON format")
+
+files <- list.files(json_path, recursive = TRUE)
+cat("| File | Description |\n|------|-------------|\n")
+for (f in files) {
+  desc <- descriptions[f]
+  if (is.null(desc)) desc <- ""
+  cat(sprintf("| `%s` | %s |\n", f, desc))
+}
+```
+
+
+## 4. Usage `extdata`
+
+The `extdata` directory includes more comprehensive child records coded according to various versions of the BDS specification. These files are used by the [JAMES demo app](https://tnochildhealthstatistics.shinyapps.io/james_tryout/). 
+
+For example, to see the first 10 lines of the `Laura_S.json` file, use:
+
+```{r}
+fn <- system.file("extdata", "bds_v3.0", "smocc", "Laura_S.json", package = "jamesdemodata")
+cat(paste(readLines(fn, n = 10), collapse = "\n"), "\n...")
+```
+
+### 4.1 Subdirectories in `extdata`
+
+The interesting parts of `extdata` are the example files using `bds_v3.0` schema:
+
+```{r}
+extdata <- system.file("extdata", package = "jamesdemodata")
+dirs <- list.dirs(extdata, full.names = FALSE, recursive = TRUE)
+dirs[grepl("^bds_v3\\.0", dirs)]
+```
+
+
+### 4.2 Exploring and working with `extdata` files
+
+Each subdirectory contains 10 children. For example, let us explore the files in `bds_v3.0/smocc`:
+
+```{r}
+smocc <- system.file("extdata", "bds_v3.0", "smocc", package = "jamesdemodata")
+list.files(smocc, recursive = TRUE)
+```
+
+See the first few lines of the `Anne_S.json` file:
+
+```{r}
+fn <- file.path(smocc, "Anne_S.json")
+cat(paste(readLines(fn, n = 10), collapse = "\n"), "\n...")
+```
+
+As before, we can read read and inspect the JSON data using the `bdsreader` package:
+
+```{r}
+read_bds(fn)
+```
 
