@@ -1,3 +1,8 @@
+# jamesdemodata 0.13.0
+
+- Adds pubertal (Tanner stage) demo data as BDS v3.1 sideload JSON files in
+  `inst/extdata/bds_v3.1/puberty`
+
 # jamesdemodata 0.12.0
 
 - Transfers `bdsreader/inst/examples` to `jamesdemodata/json/examples` to bundle all 
